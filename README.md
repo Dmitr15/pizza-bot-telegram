@@ -12,8 +12,8 @@
 
 
 ## Installation
-#### 1)git clone https://github.com/Dmitr15/web-scrapr.git
-#### 2)cd web-scrapr
+#### 1)git clone 
+#### 2)cd pizza-bot-telegram
 #### 3)pip install -r requirements.txt
 
 ### The project is still in development
